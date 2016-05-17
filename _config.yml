@@ -2,6 +2,7 @@ name: RoyalHouse
 favicon: null
 layout_spectrum: 0.24121
 typography_spectrum: 0.66237
+title: Official Website for the Royal House Clan
 cta:
   domain: null
   bucket: null
