@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hello world! Royal House is awesome :)'
-datePublished: '2016-05-17T17:20:10.831Z'
-dateModified: '2016-05-17T17:20:10.661Z'
+description: ''
+datePublished: '2016-05-17T18:18:59.991Z'
+dateModified: '2016-05-17T18:12:13.758Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-hello-world-royal-house-is-awesome.md
@@ -21,6 +21,4 @@ url: hello-world-royal-house-is-awesome/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52c59bec-cc64-49cc-b6be-b1706340e750.jpg)
-
-Hello world! Royal House is awesome :)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/467ed473-b05f-44a9-8651-4313cd211f68.jpg)
