@@ -4,8 +4,15 @@
         <description><![CDATA[Royal House - Official Clan Website]]></description>
         <link>https://thegrid.ai/royalhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 18:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 18:19:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/royalhouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/467ed473-b05f-44a9-8651-4313cd211f68.jpg">]]></description>
+            <link>https://thegrid.ai/royalhouse/hello-world-royal-house-is-awesome/index.html</link>
+            <guid isPermaLink="false">a592bcea-8b79-46ef-8bee-8b40c8cebad0</guid>
+            <pubDate>Tue, 17 May 2016 18:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5222d43-fd9d-4b98-8d55-740aa5786e14.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/royalhouse/royal-house-stats-established-august-2014-founding-membe/index.html</link>
             <guid isPermaLink="false">aa3e206c-c3ee-45a6-b7b8-4cbfb11b37b2</guid>
             <pubDate>Tue, 17 May 2016 18:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52c59bec-cc64-49cc-b6be-b1706340e750.jpg">]]></description>
-            <link>https://thegrid.ai/royalhouse/hello-world-royal-house-is-awesome/index.html</link>
-            <guid isPermaLink="false">a592bcea-8b79-46ef-8bee-8b40c8cebad0</guid>
-            <pubDate>Tue, 17 May 2016 17:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
