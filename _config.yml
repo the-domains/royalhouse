@@ -1,29 +1,41 @@
-name: Clash of Clans - Royal House
-favicon: null
-layout_spectrum: 0.72047
-typography_spectrum: 0.85409
 title: Royal House - Official Clan Website
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4838883
+  brandStrength: 0.4731471
+  lightness: 0.5
+  brandColors:
+    - '#424542'
+    - '#FFFFFF'
+    - '#DE59F7'
+    - '#66F205'
+    - '#F7A642'
+  rhythmicContrast: 0.4312567
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Clash of Clans - Royal House
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#ffc9c9'
-    - '#e50017'
-    - '#676767'
-    - '#101010'
-  brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.85409
+layout_spectrum: 0.1455424
