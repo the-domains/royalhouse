@@ -4,8 +4,15 @@
         <description><![CDATA[Royal House - Official Clan Website]]></description>
         <link>https://thegrid.ai/royalhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 18:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 18:21:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/royalhouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b59f6aa-2f37-44a4-9f82-ebe140a24e83.png">]]></description>
+            <link>https://thegrid.ai/royalhouse/royal-house-stats-established-august-2014-founding-membe/index.html</link>
+            <guid isPermaLink="false">aa3e206c-c3ee-45a6-b7b8-4cbfb11b37b2</guid>
+            <pubDate>Tue, 17 May 2016 18:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/467ed473-b05f-44a9-8651-4313cd211f68.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/royalhouse/need-some-ideas-for-a-new-th9-base-layout-check-out-http/index.html</link>
             <guid isPermaLink="false">921e8354-dd7b-4177-87e2-33d44b171927</guid>
             <pubDate>Tue, 17 May 2016 18:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b59f6aa-2f37-44a4-9f82-ebe140a24e83.png">]]></description>
-            <link>https://thegrid.ai/royalhouse/royal-house-stats-established-august-2014-founding-membe/index.html</link>
-            <guid isPermaLink="false">aa3e206c-c3ee-45a6-b7b8-4cbfb11b37b2</guid>
-            <pubDate>Tue, 17 May 2016 18:10:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
