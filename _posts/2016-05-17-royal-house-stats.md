@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Royal House Stats: '
-datePublished: '2016-05-17T16:52:34.402Z'
-dateModified: '2016-05-17T16:52:09.569Z'
+datePublished: '2016-05-17T16:53:17.581Z'
+dateModified: '2016-05-17T16:52:43.583Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-royal-house-stats.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-royal-house-stats.md
 url: royal-house-stats/index.html
 _type: Article
 
