@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Royal House Stats: Established - August 2014; Founding Members - ][<>\\\\\\:21:///<>][ (21), Hitman, Biscuits&Gravy(BG); Clan Location - USA; Clan Tag - #2LQQ8RYC; Clan Level - 7 (as of May 2016) "
-datePublished: '2016-05-17T18:21:42.586Z'
-dateModified: '2016-05-17T18:21:12.724Z'
+datePublished: '2016-05-17T18:22:03.411Z'
+dateModified: '2016-05-17T18:21:48.281Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-royal-house-stats-established-august-2014-founding-membe.md
