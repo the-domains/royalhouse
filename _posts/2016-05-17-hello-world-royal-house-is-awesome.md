@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-17T18:18:59.991Z'
-dateModified: '2016-05-17T18:12:13.758Z'
+datePublished: '2016-05-17T18:21:59.622Z'
+dateModified: '2016-05-17T18:21:50.886Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-hello-world-royal-house-is-awesome.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: hello-world-royal-house-is-awesome/index.html
 _type: Article
 
