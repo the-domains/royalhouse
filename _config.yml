@@ -1,0 +1,28 @@
+name: RoyalHouse
+favicon: null
+layout_spectrum: 0.821754346601665
+typography_spectrum: 0.18729864805936813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9994616536423564
+  lightness: 0.14734942046925426
+  saturation: 0.794752512127161
+  rhythmicContrast: 0.18055659160017967
+purpose: []
