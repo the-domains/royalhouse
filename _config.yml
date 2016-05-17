@@ -1,7 +1,7 @@
 name: Clash of Clans - Royal House
 favicon: null
 layout_spectrum: 0.27246
-typography_spectrum: 0.66237
+typography_spectrum: 0.07438
 title: Royal House - Official Clan Website
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#07306e'
     - '#5a6d8c'
     - '#fefaf7'
-  brandStrength: 0.375
+  brandStrength: 0.75
   lightness: 0.3125
   saturation: 0.375
   rhythmicContrast: 0.25
