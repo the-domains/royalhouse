@@ -4,7 +4,7 @@
         <description><![CDATA[Royal House - Official Clan Website]]></description>
         <link>https://thegrid.ai/royalhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 06:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 06:40:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/royalhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 19 May 2016 03:08:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[YouTube]]></title>
+            <description><![CDATA[<article><h1>YouTube</h1><p>3 Star War Attacks!!! LaLoon by Sharf</p></article>]]></description>
+            <link>https://youtu.be/EbvlA9D76XU</link>
+            <guid isPermaLink="false">9fd830d8-19a1-4854-b03b-dd91c0af4531</guid>
+            <pubDate>Mon, 23 May 2016 06:40:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Royal House 20160522 BM GoVaHo]]></title>
-            <description><![CDATA[<article><h1>Royal House 20160522 BM GoVaHo</h1><p>3 Star war attacks!!! GoVaHo by BeastMode</p></article>]]></description>
+            <description><![CDATA[<article><h1>Royal House 20160522 BM GoVaHo</h1><p>3 Star war attacks!!! GoVaHo by BeastMode</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/318dd11e8d747cd4171c0020978d876726d20f58.jpg"></article>]]></description>
             <link>https://youtu.be/AKdVyTtnyFA</link>
             <guid isPermaLink="false">ef15e3ec-5460-4f4f-83d8-4046e42f9ae8</guid>
             <pubDate>Mon, 23 May 2016 06:07:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/NJST9yasx2g</link>
             <guid isPermaLink="false">bf8c758f-a1c3-4fc0-8d4d-0fa9d400b40d</guid>
             <pubDate>Tue, 17 May 2016 22:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 - UPDATED GoVaHo - THE BEST TH9 Attack Strategy (after March 2016) for Clan War]]></title>
-            <description><![CDATA[<article><h1>2016 - UPDATED GoVaHo - THE BEST TH9 Attack Strategy (after March 2016) for Clan War</h1><p>IMO, GoVaHo is STILL the best TH9 Attack Strategy for 3-Star Attacks (as of 2016.. probably up until the next update..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c61dbcc5f121a8e6c15e2aed1c9421cb0514f83.jpg"></article>]]></description>
-            <link>https://youtu.be/Nw0SqudpbIE</link>
-            <guid isPermaLink="false">416946b9-4d18-4d20-bf5a-df11b7e9b6df</guid>
-            <pubDate>Tue, 17 May 2016 22:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
