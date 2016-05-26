@@ -4,7 +4,7 @@
         <description><![CDATA[Royal House - Official Clan Website]]></description>
         <link>https://thegrid.ai/royalhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 22:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 11:57:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/royalhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/royalhouse/welcome/index.html</link>
             <guid isPermaLink="false">a592bcea-8b79-46ef-8bee-8b40c8cebad0</guid>
             <pubDate>Thu, 19 May 2016 03:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal House 20160526 21 3 Star War Base Attack]]></title>
+            <description><![CDATA[<article><h1>Royal House 20160526 21 3 Star War Base Attack</h1><p>21’s 3 star attack on BG’s war base, nice!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9aeff795ade1648e172c2483d850c575d25a326.jpg"></article>]]></description>
+            <link>https://youtu.be/GL5w8VJU-rI</link>
+            <guid isPermaLink="false">e1e63a3e-d632-42d6-9210-6a470da865fb</guid>
+            <pubDate>Thu, 26 May 2016 11:57:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Royal House 20160524 21 3 Star Attack on BG]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/-BYFBJjlsDw</link>
             <guid isPermaLink="false">3cda8975-a6e0-4bf6-b753-e1d1dc970c26</guid>
             <pubDate>Wed, 18 May 2016 19:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clash of Clans TH8 BBQ Dragons]]></title>
-            <description><![CDATA[<article><h1>Clash of Clans TH8 BBQ Dragons</h1><p>A must watch for any Th8 that wants to war with us!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4fd0733f9b9ab5fb4cad5e5253c1bf95a20758b.jpg"></article>]]></description>
-            <link>https://youtu.be/ndxHCFpmktA</link>
-            <guid isPermaLink="false">63db8edc-b0fc-47dd-9d66-28ca3c7bec39</guid>
-            <pubDate>Wed, 18 May 2016 19:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
