@@ -4,7 +4,7 @@
         <description><![CDATA[Royal House - Official Clan Website]]></description>
         <link>https://thegrid.ai/royalhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 02:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 19:16:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/royalhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/royalhouse/welcome/index.html</link>
             <guid isPermaLink="false">a592bcea-8b79-46ef-8bee-8b40c8cebad0</guid>
             <pubDate>Thu, 19 May 2016 03:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal House 20160529 Adon 3 Star War Attack]]></title>
+            <description><![CDATA[<article><h1>Royal House 20160529 Adon 3 Star War Attack</h1><p>BBQ Drag master class taught by professor Adon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9541817d91cb0545cc90d545dd8cf65a3c2e18e8.jpg"></article>]]></description>
+            <link>https://youtu.be/5ec8U0Lkf9s</link>
+            <guid isPermaLink="false">80eb21a9-8b6a-4840-bc08-9f89e0fc245b</guid>
+            <pubDate>Sun, 29 May 2016 19:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Royal House 20160527 BG Cheapest Raid]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/apoRMepTx1M</link>
             <guid isPermaLink="false">5887b043-ac3e-421b-8e78-da7ece362f8c</guid>
             <pubDate>Mon, 23 May 2016 06:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEW UPDATE 2016 | Town Hall 7 War Base With 3 Air Defenses! | TH7 War Base CoC 2016!]]></title>
-            <description><![CDATA[<article><h1>NEW UPDATE 2016 | Town Hall 7 War Base With 3 Air Defenses! | TH7 War Base CoC 2016!</h1><p>For all the TH7s who want war base ideas/tips.. !Enjoy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/805d3f204c45309f6bd5410e168d1cada2899d19.jpg"></article>]]></description>
-            <link>https://youtu.be/HDyO-dYpLNo</link>
-            <guid isPermaLink="false">c282b5f8-5ee7-4fbd-bd64-9ec0ab018bd3</guid>
-            <pubDate>Wed, 18 May 2016 19:45:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
